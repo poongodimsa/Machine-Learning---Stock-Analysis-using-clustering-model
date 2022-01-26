@@ -14,4 +14,5 @@ CSV file with approx 20K rows
 
 #### Evaluation metrics:
 Silhouette score
+
 Elbow method to find optimum number of clusters
